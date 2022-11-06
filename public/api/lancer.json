@@ -1,0 +1,12 @@
+{
+  "data": {
+    "id": "lancer",
+    "name": "Mitsubishi Lancer Evolution",
+    "originalidade": "Japão",
+    "descricao": "O Lancer Evolution, (também apelidado de Lancer Evo[1]) é um sedan de alto desempenho baseado no Mitsubishi Lancer que foi fabricado pela Mitsubishi Motors entre 1992 e 2015. Das dez versões fabricadas, todas utilizam um motor de 2 litros, com turbo e tração nas quatro rodas.",
+    "motor": "250cv",
+    "torque": "431,4 kgf.m @ 3 000 rpm",
+    "image_url": "https://i.pinimg.com/originals/96/69/7e/96697ef35d09ed8c9855e82bd77e460b.jpg",
+    "image2_url": "https://supercarros.cc/uploads/produto/thumb_1569888453-a4a818f16c9d1e45154e.jpeg"
+  }
+}

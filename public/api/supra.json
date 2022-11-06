@@ -1,0 +1,12 @@
+{
+  "data": {
+    "id": "Toyota Supra",
+    "name": "Supra",
+    "originalidade": "Japão",
+    "descricao": "O Toyota Supra surgiu em 1978, com desenvolvimento baseado na plataforma do Toyota Celica, porém com algumas características próprias e que viriam mais tarde serem as responsáveis pelo sucesso que o carro alcançou.",
+    "motor": "Motor: em linha 6",
+    "torque": "441 Nm / 325 lb-ft @ 4800 rpm",
+    "image_url": "https://hips.hearstapps.com/hmg-prod/images/2020-toyota-supra-vs-1994-toyota-supra-turbo-comparison-109-1575503460.jpg?crop=0.712xw:0.534xh;0.133xw,0.251xh&resize=1200:*",
+    "image2_url": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/1993-toyota-supra-comparo-122-1588969994-1-1589304178.jpg"
+  }
+}

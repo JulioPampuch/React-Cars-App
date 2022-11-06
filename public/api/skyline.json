@@ -1,0 +1,12 @@
+{
+  "data": {
+    "id": "skyline",
+    "name": "Nissan Skyline",
+    "originalidade": "Japão",
+    "descricao": "A primeira versão do Skyline, chamada de ALSI-1 entrou em produção em abril de 1957, naquela época era vendido como um carro de luxo, sob a marca Prince. Esta versão vinha com um motor 1,5 litro, que produzia 60 cv, este motor era padrão para toda a linha. O desempenho era relativo aos sedãs médios da época, alcançava 140 km/h. Eram oferecidas carroçarias sedan e station wagon, havia também uma versão pick-up e um furgão, chamados Prince Skyway.",
+    "motor": "Motor: 2568 cm3",
+    "torque": "Torque: 392/4400 N*m/rpm",
+    "image_url": "https://motorshow.com.br/wp-content/uploads/sites/2/2022/06/nissan-skyline-paul-walker-5.jpg",
+    "image2_url": "https://st4.depositphotos.com/3559981/40947/i/600/depositphotos_409474056-stock-photo-mulhouse-france-13-september-2020.jpg"
+  }
+}

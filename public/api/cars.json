@@ -1,0 +1,32 @@
+{
+  "cars": [
+    {
+      "id": "skyline",
+      "name": "Nissan Skyline",
+      "originalidade": "Japão",
+      "descricao": "A primeira versão do Skyline, chamada de ALSI-1 entrou em produção em abril de 1957, naquela época era vendido como um carro de luxo, sob a marca Prince. Esta versão vinha com um motor 1,5 litro, que produzia 60 cv, este motor era padrão para toda a linha. O desempenho era relativo aos sedãs médios da época, alcançava 140 km/h. Eram oferecidas carroçarias sedan e station wagon, havia também uma versão pick-up e um furgão, chamados Prince Skyway.",
+      "motor": "Motor: 2568 cm3",
+      "torque": "Torque: 392/4400 N*m/rpm",
+      "image_url": "https://motorshow.com.br/wp-content/uploads/sites/2/2022/06/nissan-skyline-paul-walker-5.jpg",
+      "image2_url": "https://st4.depositphotos.com/3559981/40947/i/600/depositphotos_409474056-stock-photo-mulhouse-france-13-september-2020.jpg"
+    },
+    {
+      "id": "supra",
+      "name": "Toyota Supra",
+      "originalidade": "Japão",
+      "descricao": "O Toyota Supra surgiu em 1978, com desenvolvimento baseado na plataforma do Toyota Celica, porém com algumas características próprias e que viriam mais tarde serem as responsáveis pelo sucesso que o carro alcançou.",
+      "motor": "Motor: em linha 6",
+      "torque": "441 Nm / 325 lb-ft @ 4800 rpm",
+      "image_url": "https://hips.hearstapps.com/hmg-prod/images/2020-toyota-supra-vs-1994-toyota-supra-turbo-comparison-109-1575503460.jpg?crop=0.712xw:0.534xh;0.133xw,0.251xh&resize=1200:*"
+    },
+    {
+      "id": "lancer",
+      "name": "Mitsubish Lancer Evolution",
+      "originalidade": "Japão",
+      "descricao": "O Lancer Evolution, (também apelidado de Lancer Evo[1]) é um sedan de alto desempenho baseado no Mitsubishi Lancer que foi fabricado pela Mitsubishi Motors entre 1992 e 2015. Das dez versões fabricadas, todas utilizam um motor de 2 litros, com turbo e tração nas quatro rodas.",
+      "motor": "250 cv",
+      "torque": "431,4 kgf.m @ 3 000 rpm",
+      "image_url": "https://i.pinimg.com/originals/96/69/7e/96697ef35d09ed8c9855e82bd77e460b.jpg"
+    }
+  ]
+}
